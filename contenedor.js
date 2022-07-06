@@ -39,7 +39,6 @@ class Contenedor{
                 json = element;
             }
         })
-        console.log(json);
         return json
     }
 
